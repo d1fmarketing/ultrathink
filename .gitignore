@@ -1,0 +1,105 @@
+# ULTRATHINK .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Credentials and Secrets
+*.key
+*.enc
+*.pem
+.env
+.env.local
+config/credentials/
+/opt/cashmachine/config/
+api_keys.json
+secrets.yaml
+
+# Logs
+*.log
+logs/
+/var/log/
+*.out
+*.err
+
+# Data
+*.csv
+*.db
+*.sqlite
+data/
+datasets/
+cache/
+
+# Redis
+dump.rdb
+redis.conf
+
+# AWS
+.aws/
+*.tfstate
+*.tfstate.backup
+
+# Trading specific
+positions.json
+orders.json
+trades/
+backtests/
+results/
+
+# Sacred ML experiments
+.sacred/
+runs/
+my_runs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation build
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+.hypothesis/
+
+# System
+Thumbs.db
+.directory
