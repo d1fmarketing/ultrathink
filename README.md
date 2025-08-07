@@ -1,8 +1,16 @@
-# 🧠 ULTRATHINK - Distributed AI Trading System
+# 💰 CASHMACHINE - Automated Trading Platform
 
-## AlphaGo-Style Trading Intelligence with ASI/HRM/MCTS
+## Powered by ULTRATHINK: AlphaGo-Style Trading Intelligence with ASI/HRM/MCTS
 
-ULTRATHINK is a distributed artificial intelligence trading system that combines multiple AI methodologies (ASI, HRM, MCTS) inspired by AlphaGo's architecture to execute intelligent trading decisions across forex, stocks, and cryptocurrency markets.
+CASHMACHINE is a comprehensive automated trading platform that leverages ULTRATHINK, a distributed artificial intelligence system combining multiple AI methodologies (ASI, HRM, MCTS) inspired by AlphaGo's architecture to execute intelligent trading decisions across forex, stocks, and cryptocurrency markets.
+
+## 📊 Current Performance (Live)
+
+- **Total Trades Executed**: 526+
+- **Portfolio Value**: $91,133 (from $100k start)
+- **Balance Distribution**: 34.9% BUY | 34.9% SELL | 30.2% HOLD
+- **Active Since**: August 2025
+- **Trading Focus**: Crypto (BTC, ETH, SOL) to avoid PDT restrictions
 
 ## 🚀 System Architecture
 
@@ -10,7 +18,7 @@ ULTRATHINK is a distributed artificial intelligence trading system that combines
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                      ULTRATHINK ARCHITECTURE                  │
+│                    CASHMACHINE + ULTRATHINK                   │
 ├──────────────────────────────────────────────────────────────┤
 │                                                               │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐     │
